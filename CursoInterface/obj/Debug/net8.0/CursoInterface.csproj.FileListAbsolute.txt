@@ -1,0 +1,14 @@
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\bin\Debug\net8.0\CursoInterface.exe
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\bin\Debug\net8.0\CursoInterface.deps.json
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\bin\Debug\net8.0\CursoInterface.runtimeconfig.json
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\bin\Debug\net8.0\CursoInterface.dll
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\bin\Debug\net8.0\CursoInterface.pdb
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.AssemblyInfoInputs.cache
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.AssemblyInfo.cs
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.csproj.CoreCompileInputs.cache
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.dll
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\refint\CursoInterface.dll
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.pdb
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\CursoInterface.genruntimeconfig.cache
+C:\Users\vinyo\source\repos\CursoInterface\CursoInterface\obj\Debug\net8.0\ref\CursoInterface.dll
